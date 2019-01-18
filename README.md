@@ -1,2 +1,62 @@
-# Officers-Police-Locker
-Officers Police Locker
+# Officer PoliceLocker
+
+
+
+# Overview
+
+
+This police locker is a a realistic police locker, i have made this police locker to make it realistic what regular police officers carry inside a locker. Including primaries,secondaries,health,armor,ammo,uniforms. It also has an advanced ui design with a simple config and a custom model with animations. At the moment working on a police vending machine also!
+
+
+
+
+
+# Features
+
+
+1. Good Deisgn
+2. Max health
+3. Max armor
+4. Advanced ui design
+5. Simple config, can configure everything
+6. Custom model with animations
+
+
+
+
+
+
+# Installation
+
+
+Go to https://github.com/OfficerViars/Officers-Police-Locker
+
+Find the button clone or download click it.
+
+Click open in desktop or download zip.
+
+Extract the folder on desktop or where ever you want it to be.
+
+Then drop Officer_Government inside the garrysmod\addons
+
+Config is located inside Officer_Government\lua\autorun
+
+
+
+# Support
+
+
+Got any suggestions for addons or need help with the addon join the discord
+
+
+
+https://discord.gg/Wqd2BDX
+
+
+
+
+
+# Credits
+
+
+🍊Tardpipl🍊#5277 - discord - Making the model and animations!
