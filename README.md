@@ -60,3 +60,11 @@ https://discord.gg/Wqd2BDX
 
 
 🍊Tardpipl🍊#5277 - discord - Making the model and animations!
+
+
+# Update 1.0 1/30/2019
+
+Made it easier to use the config inside the police locker.
+Made it where you can disable the overhead text and change the overhead text.
+Made it where you can disable certain tabs if you do not want them
+
