@@ -66,7 +66,8 @@ Release
 
 # Update 1.1 1/30/2019
 
-Made it easier to use the config inside the police locker.
-Made it where you can disable the overhead text and change the overhead text.
-Made it where you can disable certain tabs if you do not want them
+* Made it easier to use the config inside the police locker.
+* Made it where you can disable the overhead text and change the overhead text.
+* Made it where you can disable certain tabs if you do not want them.
+* Did some fixes with client and server side.
 
